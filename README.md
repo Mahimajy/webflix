@@ -1,9 +1,5 @@
 # WebFlix
 - A replica of Netflix made using reactJS and firebase
-- Hosted Website Link: https://webflix-by-raj.netlify.app/
-
-## Developer
-Gaurav Raj - [LinkedIn](https://www.linkedin.com/in/gaurav-raj-5893b0195/)
 
 ## Features 
  - Browse page is restricted and can be accessed only after sign in.
